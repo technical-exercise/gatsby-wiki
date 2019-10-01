@@ -6,7 +6,7 @@ const config = {
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Wiki Template`,
+    title: `Wiki`,
     description: `Markdown based wiki site`,
     author: `@cephalization`,
   },
